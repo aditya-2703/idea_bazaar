@@ -47,7 +47,7 @@ The architecture of the system is based on a microservices approach, where each 
 - User Saved Projects table
 - Bookmarks table
 
-### Project Service
+### [Project Service](https://github.com/aditya-2703/ProjectServiceApi)
 
 **Functionality:**
 - Create, update, and delete projects
@@ -65,7 +65,7 @@ The architecture of the system is based on a microservices approach, where each 
 - Projects table
 - Project Resources table
 
-### Resource Service
+### [Resource Service](https://github.com/aditya-2703/ProjectServiceApi)
 
 **Functionality:**
 - Create, update, and delete resources
@@ -82,7 +82,7 @@ The architecture of the system is based on a microservices approach, where each 
 **Database:**
 - Resources table
 
-### Payment Service
+### [Payment Service](https://github.com/aditya-2703/ProjectServiceApi)
 
 **Functionality:**
 - Initiate payments
@@ -99,7 +99,7 @@ The architecture of the system is based on a microservices approach, where each 
 **Database:**
 - Payments table
 
-### ThirdParty Service
+### [ThirdParty Service](https://github.com/aditya-2703/ProjectServiceApi)
 
 **Functionality:**
 - Fetch repositories from a third-party service (e.g., GitHub)
