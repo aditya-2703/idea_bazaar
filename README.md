@@ -28,7 +28,7 @@ The architecture of the system is based on a microservices approach, where each 
 
 
 
-### User Service [Url : ](https://github.com/aditya-2703/UserServiceApi)
+### [User Service](https://github.com/aditya-2703/UserServiceApi)
 
 **Functionality:**
 - User registration and login
