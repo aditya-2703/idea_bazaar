@@ -23,11 +23,12 @@ This repository contains a collection of microservices built using Spring Boot, 
 The architecture of the system is based on a microservices approach, where each service is responsible for a specific domain. The services communicate with each other through APIs, and an API Gateway acts as a single entry point for client requests.
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/2aed3991-429e-4b74-a8d3-080da2cf8b26)
+</br>
 ![flow](https://github.com/user-attachments/assets/518f63d2-2960-4551-8e29-22266375d868)
 
 
 
-### User Service
+### User Service [Url : ](https://github.com/aditya-2703/UserServiceApi)
 
 **Functionality:**
 - User registration and login
